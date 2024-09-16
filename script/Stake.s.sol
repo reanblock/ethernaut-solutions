@@ -49,7 +49,7 @@ contract BecauseWhyNot {
 
 contract StakeScript is Script {
     // replace instance with your level1 instance adddress
-    address instance = 0x95ccEc07bA23AEc6D55D9bBf82CA211D5EA03306;
+    address instance = 0x932C0B18ae8DD1328B4c361a9C9aa29368B0eF46;
     // Replace with your Stake instance
     Stake level31 = Stake(instance);
     // get the weth contract instance
