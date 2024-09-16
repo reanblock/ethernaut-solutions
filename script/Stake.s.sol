@@ -19,8 +19,6 @@ import "../src/levels/Stake.sol";
         --rpc-url sepolia \
         --account auditor \
         --sender 0x471cd8eaa5d60c2ed4dd42cc3b0de75ecfbbda62 \
-        --evm-version cancun \
-        --priority-gas-price 1 \
         -vv
     ```
 
